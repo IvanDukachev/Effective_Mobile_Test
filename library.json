@@ -1,0 +1,23 @@
+[
+  {
+    "id": 2,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "year": 1960,
+    "status": "в наличии"
+  },
+  {
+    "id": 3,
+    "title": "1984",
+    "author": "George Orwell",
+    "year": 1949,
+    "status": "в наличии"
+  },
+  {
+    "id": 4,
+    "title": "wasd",
+    "author": "dsa",
+    "year": 1234,
+    "status": "в наличии"
+  }
+]
